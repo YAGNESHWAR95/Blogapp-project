@@ -1,4 +1,4 @@
 // base url for api
-const BASE_URL="https://blog-app-project-pq3x.onrender.com"
+const BASE_URL="https://blogapp-project-2.onrender.com"
 
 export default BASE_URL;
